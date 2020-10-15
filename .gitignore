@@ -1,0 +1,6 @@
+Untitled*.ipynb
+*.smi
+logs/ 
+utils/
+model/
+.ipynb_checkpoints/
