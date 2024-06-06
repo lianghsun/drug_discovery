@@ -4,3 +4,4 @@ logs/
 utils/
 model/
 .ipynb_checkpoints/
+*.npy
