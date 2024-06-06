@@ -1,3 +1,0 @@
-CC(=C(C#N)C#N)C1=CC2=C(C=C1)C=C(C=C2)N(C)CC[18F]
-CC(=C(C#N)C#N)c1ccc2cc(N(C)CC[18F])ccc2c1
-CNC1=NC=C(C=C1)C2=NC3=C(C=C2)C=C(C=C3)OC[C@@H](CF)O

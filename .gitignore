@@ -6,3 +6,4 @@ model/
 .ipynb_checkpoints/
 *.npy
 mapping/*.json
+prediction/*.txt
