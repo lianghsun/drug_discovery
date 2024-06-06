@@ -5,3 +5,4 @@ utils/
 model/
 .ipynb_checkpoints/
 *.npy
+mapping/*.json
